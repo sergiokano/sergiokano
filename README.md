@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Sergio%20Cano&fontSize=60&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Health%20Tech%20%C2%B7%20SaaS&descSize=18&descColor=8b949e&descAlignY=55" width="100%" />
+<img src="./header.svg" width="100%" alt="Sergio Cano - Full-Stack Developer · Health Tech · SaaS" />
 
 <br/>
 
@@ -133,4 +133,4 @@ My background is full-stack development, but I think in funnels, conversion gaps
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/sergiokano/sergiokano/main/header.svg" width="100%" style="transform: rotate(180deg);" />
