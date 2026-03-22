@@ -90,11 +90,11 @@ My background is full-stack development, but I think in funnels, conversion gaps
 
 <div align="center">
 
-<a href="https://github.com/sergiokano/exercise-snack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergiokano&repo=exercise-snack&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=e6edf3" />
-</a>
 <a href="https://github.com/sergiokano/SAAS_LandingPage_NextJS">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergiokano&repo=SAAS_LandingPage_NextJS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=e6edf3" />
+</a>
+<a href="https://github.com/sergiokano/SpotifyClone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergiokano&repo=SpotifyClone&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=e6edf3" />
 </a>
 
 </div>
@@ -133,4 +133,4 @@ My background is full-stack development, but I think in funnels, conversion gaps
 
 </div>
 
-<img src="https://raw.githubusercontent.com/sergiokano/sergiokano/main/header.svg" width="100%" style="transform: rotate(180deg);" />
+<img src="./footer.svg" width="100%" alt="" />
